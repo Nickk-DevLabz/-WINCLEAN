@@ -1,0 +1,19 @@
+﻿{
+    "AdvID":  false,
+    "BlockDrivers":  true,
+    "RemoveEdge":  true,
+    "CreateRestore":  true,
+    "CleanupApps":  [
+
+                    ],
+    "UnlockApps":  false,
+    "RemoveProv":  false,
+    "UpdateMode":  "Default",
+    "RepairShell":  true,
+    "InstallApps":  [
+
+                    ],
+    "Telemetry":  false,
+    "RemoveOneDrive":  false,
+    "DeepClean":  false
+}
