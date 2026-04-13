@@ -1,5 +1,6 @@
 📘 WinClean Pro: Technician’s ReadMe
 
+
 Purpose: To standardize the "Post-Repair" or "New PC" setup process by removing bloatware, locking drivers, and installing essentials in one automated pass.
 📂 Tab 1: OS Cleanup & Debloat
 
@@ -52,3 +53,5 @@ Since you'll be running this on many different machines, remember the "Sandwich"
     Run: .\WinCleanPro_v7.ps1
 
     Lock (Optional): Set-ExecutionPolicy Restricted -Scope LocalMachine
+
+

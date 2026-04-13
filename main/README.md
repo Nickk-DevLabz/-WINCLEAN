@@ -1,0 +1,1 @@
+This file 'winclean.main.ps1' is a combination of each version of the script, with comments and instructions for technicians. It serves as a comprehensive guide for using WinClean Pro effectively in various scenarios. Each section is clearly marked to help technicians understand the purpose and functionality of different features within the tool.

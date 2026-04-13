@@ -11,10 +11,10 @@ if %errorLevel% neq 0 (
 )
 
 :: Unblock the script file (clears "downloaded from internet" flag)
-powershell -Command "Unblock-File -Path '%~dp0winclean.v4.ps1' -ErrorAction SilentlyContinue"
+powershell -Command "Unblock-File -Path '%~dp0winclean.main.ps1' -ErrorAction SilentlyContinue"
 
 :: Launch the GUI app
-powershell -NoProfile -ExecutionPolicy Bypass -File "%~dp0winclean.v4.ps1"
+powershell -NoProfile -ExecutionPolicy Bypass -File "%~dp0winclean.main.ps1"
 if %errorLevel% neq 0 (
     echo.
     echo [ERROR] Script failed with exit code: %errorLevel%
